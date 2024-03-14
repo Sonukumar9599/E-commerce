@@ -1,4 +1,4 @@
-# Welcome to Thapa Technical React Ecommerce Webstie Series 
+# Welcome to Sonu Kumar React Ecommerce Webstie  
 
 ## Follow the 3 Steps and your good to go. 
 
